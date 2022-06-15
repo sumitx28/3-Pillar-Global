@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+
+#topDiv {
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    height: 50%;
+    width: 50%;
+}
+#text{
+    width: 100%;
+    height: 50%;
+}
+
+ul{
+    list-style: none;
+}
+
+.entry{
+    display: flex;
+    background: #9C9F84;
+    justify-content: space-between;
+    margin-top: 5px;
+    width: 490px;
+}
+
+input{
+    display: inline;
+}
