@@ -1,1 +1,0 @@
-let countries = ["India", "USA", "Italy", "Canada", "Lebanon"];
